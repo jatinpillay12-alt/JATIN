@@ -1,0 +1,6 @@
+{
+  "name": "Photography Portfolio",
+  "description": "A minimalist, responsive photography portfolio showcasing curated visual stories with technical lens parameters and a fluid details lightbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
